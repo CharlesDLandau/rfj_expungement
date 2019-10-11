@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@material-ui/core": "^4.4.2",
-    "@material-ui/icons": "^4.4.1",
+    "@material-ui/icons": "^4.4.3",
     "next": "^9.0.6",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
